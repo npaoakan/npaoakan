@@ -23,6 +23,42 @@ Open to roles in climate-tech, geospatial consulting, and remote sensing.
 [![Email](https://img.shields.io/badge/Email-2d6a4f?style=flat&logo=gmail&logoColor=white)](mailto:noahpaoa@gmail.com)
 
 
-<img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
-<img src="https://cdn.simpleicons.org/qgis" width="40" height="40" alt="QGIS"/>
-<img src="https://cdn.simpleicons.org/arcgis" width="40" height="40" alt="ArcGIS"/>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://qgis.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/qgis" alt="QGIS" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.arcgis.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/arcgis" alt="ArcGIS" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://numpy.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://geopandas.org" target="_blank" rel="noreferrer">
+        <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="GeoPandas" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
