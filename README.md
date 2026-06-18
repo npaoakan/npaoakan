@@ -1,4 +1,4 @@
-## Hi, I'm Noah 👋
+## Noah Paoa, PhD Earth Sciences 👋
 
 I'm a geospatial data scientist with a PhD from the University of Hawaiʻi at Mānoa. I build reproducible Python pipelines that turn drone, satellite, LiDAR, and field data into accurate 3D terrain models, large-scale spatial analyses, and publication-quality maps.
 
@@ -16,4 +16,13 @@ I'm a geospatial data scientist with a PhD from the University of Hawaiʻi at M�
 ### Currently
 Open to roles in climate-tech, geospatial consulting, and remote sensing.
 
-🌐 [Portfolio](https://npaoakan.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/noah-paoa) · ✉️ noahpaoa@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d6a4f?style=flat&logo=github&logoColor=white)](https://npaoakan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d6a4f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-paoa)
+[![Google Scholar](https://img.shields.io/badge/Scholar-2d6a4f?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![ORCID](https://img.shields.io/badge/ORCID-2d6a4f?style=flat&logo=orcid&logoColor=white)](https://orcid.org/YOUR_ID)
+[![Email](https://img.shields.io/badge/Email-2d6a4f?style=flat&logo=gmail&logoColor=white)](mailto:noahpaoa@gmail.com)
+
+
+<img src="https://cdn.simpleicons.org/python/2d6a4f" width="40" height="40" alt="Python"/>
+<img src="https://cdn.simpleicons.org/qgis/2d6a4f" width="40" height="40" alt="QGIS"/>
+<img src="https://cdn.simpleicons.org/arcgis/2d6a4f" width="40" height="40" alt="ArcGIS"/>
