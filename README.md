@@ -23,6 +23,6 @@ Open to roles in climate-tech, geospatial consulting, and remote sensing.
 [![Email](https://img.shields.io/badge/Email-2d6a4f?style=flat&logo=gmail&logoColor=white)](mailto:noahpaoa@gmail.com)
 
 
-<img src="https://cdn.simpleicons.org/python/2d6a4f" width="40" height="40" alt="Python"/>
-<img src="https://cdn.simpleicons.org/qgis/2d6a4f" width="40" height="40" alt="QGIS"/>
-<img src="https://cdn.simpleicons.org/arcgis/2d6a4f" width="40" height="40" alt="ArcGIS"/>
+<img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
+<img src="https://cdn.simpleicons.org/qgis" width="40" height="40" alt="QGIS"/>
+<img src="https://cdn.simpleicons.org/arcgis" width="40" height="40" alt="ArcGIS"/>
