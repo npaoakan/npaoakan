@@ -8,9 +8,10 @@ I'm a geospatial data scientist with a PhD from the University of Hawaiʻi at M�
 - **Numerical coastal modeling** — XBeach, SFINCS, probabilistic sea-level rise projections
 - **Cartography & scientific visualization** — static/interactive maps and figure design (Matplotlib, QGIS, Affinity)
 
-### Selected publications
+### Publications
 - Paoa et al. (2023), *Scientific Reports* — [Probabilistic sea-level rise flood projections using a localized ocean reference surface](https://doi.org/10.1038/s41598-023-29297-2)
 - Paoa et al. (2025), *Journal of Cultural Heritage* — [Impacts of sea-level rise and wave inundation in the Tongariki Complex, Rapa Nui](https://doi.org/10.1016/j.culher.2025.07.004)
+- Paoa et al. (2026), *Scientific Reports* — [Hydrostatic sea-level rise inundation impacts on ahu and harbors of Rapa Nui (Easter Island)](https://doi.org/10.1038/s41598-026-45195-9)
 
 ### Currently
 Open to roles in climate-tech, geospatial consulting, and remote sensing.
